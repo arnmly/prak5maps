@@ -187,14 +187,6 @@ public class MapsActivity extends FragmentActivity implements
     }
 }
 
-
-<!-- ---------- google_maps_api.xml --------- -->
-
-<resources>
-    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyCOULzaaFhRAEduJz-im7g_rNTj5VQnpwU</string>
-</resources>
-
-
 <!-- ---------- activity_maps.xml --------- -->
 
 <?xml version="1.0" encoding="utf-8"?>
