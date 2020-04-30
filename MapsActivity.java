@@ -149,7 +149,7 @@ public class MapsActivity extends FragmentActivity implements
 
         MarkerOptions markerOptions = new MarkerOptions();
         markerOptions.position(latLng);
-        markerOptions.title("Lokasi kamu jamet");
+        markerOptions.title("Lokasi Anda");
         markerOptions.icon(BitmapDescriptorFactory.defaultMarker(BitmapDescriptorFactory.HUE_GREEN));
 
         tandaLokasiUserSaatIni = mMap.addMarker(markerOptions);
